@@ -1,6 +1,6 @@
 Myenv/
 venv/
-.src/
+src/
 .env/
 __pycache__/
 twitter_api.log/
