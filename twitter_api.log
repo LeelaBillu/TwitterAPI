@@ -1,0 +1,4 @@
+2024-10-21 11:28:49,604 - INFO - Successfully fetched request token.
+2024-10-21 11:29:16,116 - INFO - Successfully authorized user and fetched access tokens.
+2024-10-21 11:29:37,267 - INFO - Tweet deleted successfully.
+2024-10-21 11:32:25,744 - INFO - Exiting the application.
